@@ -1,0 +1,35 @@
+<table border="1px">
+  <thead>
+    <tr>
+      <th>ANIMALES ACUATICOS</th>
+      <th>ANIMALES TERRESTRES</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>tortuga</td>
+      <td>león</td>
+	</tr>
+		<td>Delfin</td>
+		<td>conejo</td>
+	</tr>
+		<td>Pulpo</td>
+		<td>Jirafa</td>
+	<tr>
+      		<td>Pez globo</td>
+     		<td>Perro</td>
+	<tr>
+      		<td>Ballena</td>
+      		<td>Panda</td><tr>
+	<tr>
+      		<td>Estrella de mar</td>
+      		<td>erizo</td>
+	 <tr>
+      		<td>cabillito de mar</td>
+     		 <td>Mono</td> 
+	<tr>
+      		<td>Tiburon</td>
+     		 <td>Gato</td> 
+      		  
+	</tbody>
+	</table>
